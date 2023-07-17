@@ -39,5 +39,9 @@ I'm a passionate data scientist, AI enthusiast, and mining engineer. My journey 
 - Mineral Processing
 - Environmental Impact Assessment
 - Mine Safety and Regulationsme ...
+- ## Let's Connect!
+
+- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/nouman-nazar-218325139/)
+
 
 
